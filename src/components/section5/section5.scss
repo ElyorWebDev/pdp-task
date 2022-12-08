@@ -1,0 +1,34 @@
+.section5 {
+    background-color: #f8f8f8;
+    padding: 50px;
+
+    &__left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        h6 {
+            font-size: 20px;
+            line-height: 30px;
+            color: #898989;
+            margin: 10px 0;
+        }
+        span{
+            font-size: 18px !important;
+            color: #898989 !important;
+            cursor: pointer !important; 
+        }
+        .alink {
+            font-size: 18px !important;
+            color: #898989 !important;
+            cursor: pointer !important;
+            transition: 1s;
+            &:hover{
+                margin-right:15px ;
+                transition: 1s;
+            }
+           
+           
+        }
+    }
+}

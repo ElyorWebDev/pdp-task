@@ -1,0 +1,42 @@
+[
+    {
+        "text":"FrontEnd",
+        "kurs":2,
+        "company":"../../assets/images/ecma.png"
+    },
+    {
+        "text":"Android",
+        "kurs":1,
+        "company":"../../assets/images/ecma.png"
+    },
+    {
+        "text":"JavaBackend",
+        "kurs":6,
+        "company":"../../assets/images/ecma.png"
+    },
+    {
+        "text":"Flutter",
+        "kurs":2,
+        "company":"../../assets/images/pdp-academy-logo-dark.png"
+    },
+    {
+        "text":"Android App development",
+        "kurs":3,
+        "company":"../../assets/images/pdp-academy-logo-dark.png"
+    },
+    {
+        "text":"Python",
+        "kurs":3,
+        "company":"../../assets/images/ecma.png"
+    },
+    {
+        "text":"IOS",
+        "kurs":2,
+        "company":"../../assets/images/pdp-academy-logo-dark.png"
+    },
+    {
+        "text":".NET",
+        "kurs":3,
+        "company":"../../assets/images/ecma.png"
+    }
+]

@@ -1,0 +1,23 @@
+.section3{
+    margin-top: 55px;
+    margin-bottom: 55px;
+    background-color: #f8f8f8;
+    padding: 55px;
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: space-between;
+    h2{
+       color:  black;
+       font-size: 55px;
+    }
+    h4{
+        color: #898989;
+    }
+}
+@media(max-width:570px){
+    h2{
+        font-size:25px !important;
+    }
+}

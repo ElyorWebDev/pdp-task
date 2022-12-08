@@ -1,0 +1,50 @@
+[
+    {
+        "img":"../../assets/images/image 5.png",
+        "name":"Dilshod Mirsoatov",
+        "state":"Senior Frontend Developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/15.jpg",
+        "name":"Xurshidbek Kurbanov",
+        "state":"Senior Mobile Developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/14.jpg",
+        "name":"Azimjon Po'latov",
+        "state":"Software Engineer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/13.jpg",
+        "name":"Alisher Davlatov",
+        "state":"Senior Backend Developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/12.jpg",
+        "name":"Sirojiddin Saidov",
+        "state":"Spring Developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/sanjar.jpg",
+        "name":"Sanjar Suvonov",
+        "state":"Android Developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/bobur.jpg",
+        "name":"Abdusobur Xalimov",
+        "state":"Fullstack Web developer",
+        "comp":"../../assets/images/ecma.png"
+    },
+    {
+        "img":"../../assets/images/DSC04138.jpg",
+        "name":"Nurbek Boboyev",
+        "state":"Mentor",
+        "comp":"../../assets/images/ecma.png"
+    }
+]

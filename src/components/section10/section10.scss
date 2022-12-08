@@ -1,0 +1,39 @@
+.section10{
+    margin: 50px 0;
+   background-color: #f8f8f8;
+   &__left{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    h6{
+        color: #898989;
+    }
+    .sec10__link{
+        font-size: 18px !important;
+        color: #898989;
+      
+        a{
+            transition: 1s;
+         &:hover{
+            margin-right: 10px;
+            transition: 1s;
+         }
+        }
+    }
+   }
+    &__right{
+        display: flex;
+        flex-wrap: wrap;
+        .img10{
+            background-color: white;
+            width: 50%;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            padding: 25px;
+            border: 0.5px solid rgb(233, 231, 231);
+        }
+    }
+}

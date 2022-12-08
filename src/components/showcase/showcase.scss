@@ -1,0 +1,38 @@
+@import "../../variable.scss";
+h1{
+    font-size: 75px;
+    line-height: 85px;
+    color: #000;
+    letter-spacing: -.3px;
+    span{
+        color: $brandocolor;
+    }
+    
+
+}
+
+.showcase{
+   
+    &__video{
+        iframe{
+            border-radius: 50%;
+             width: 120px;
+             height: 120px;
+            
+        
+        
+            top: 0;
+            left: 0;
+            background-color: rgba(0,0,0,.35);
+        }
+        
+       
+
+    }
+}
+
+@media(max-width:768px){
+    h1{
+        font-size: 50px;
+    }
+}
